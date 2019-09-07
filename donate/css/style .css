@@ -1,0 +1,47 @@
+body
+{
+    background-image: url(Linux%20Foundation%20Certified%20System%20Administrator%20Exam%20Course%20100%25%20Off.jpg);
+    
+/*   background-color: white;*/
+    background-size: 100% 100%;
+   
+      background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+.border{  background-color:rgba(0, 45, 50, 0.5);
+      
+    width: 90%;
+    margin:10px auto ;
+    border-radius: 20px;
+    border: 1px solid white;}
+
+.first{
+    
+	box-shadow: maroon 0px 2px 2px;
+}
+
+.firstg{border-radius: 50%;
+	border-style: dotted;
+	border-width: 2px;
+	border-color:orangered;
+    width: 90%
+}
+
+.firstgt{width: 85%}
+.firstt h2
+{
+    color:yellow;
+    
+    
+    
+   
+}
+
+.firstt h2:hover
+{
+    background-color: maroon;
+    color:white;
+}
+
