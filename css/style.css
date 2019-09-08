@@ -163,3 +163,95 @@ border-radius: 30px;
     margin: auto;
     border-radius: 20px;
 }
+
+
+/*ahmed*/
+
+/* contact us */
+.inputs{
+  width: 70% !important; 
+}
+
+
+.inputs h3{
+  color: #0f5da9;
+}
+
+.inputs button{
+  color: white;
+  background-color: #0f5da9;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  margin-bottom: 9px
+}
+.inputs textarea{
+  width: 100%
+}
+
+.inputs label{
+  font-weight: bold
+}
+.bgc{
+  background-color: #edf3f9
+}
+
+/* /contact us */
+
+/* hoinfo. */
+
+.hoinfo{
+  background-color: #022547
+}
+.hoinfo ul{
+  display: inline-block
+}
+
+.hoinfo li{
+  list-style: none;
+  margin-bottom: 10px
+}
+
+.hoinfo li a{
+  color: white
+}
+
+
+.hoinfo button{
+  background-color: #0f5da9;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  color: white;
+  margin-bottom: 30px
+}
+
+
+.hoinfo button:hover{
+  background-color: #a90000 !important;
+  color: white
+}
+
+.hoinfo a i
+{
+  color: white;
+  margin-left: 15px;
+  font-size: 20px
+}
+
+/* hoinfo. */
+
+/* footer */
+.footer{
+  background-color: #054483;
+  color: white;
+  
+}
+
+/* /footer */
+
+/*/ahmed*/
